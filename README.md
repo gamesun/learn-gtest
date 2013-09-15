@@ -25,3 +25,14 @@ the first example(/mytest)
 
 4. Execute:  
 <code>$ ./test.exe</code>  
+
+the seccod example(/mytest2)
+----------------------------
+1. change directory  
+<code>$ cd mytest/make/</code>  
+
+2. Make:  
+<code>$ make</code>  
+
+3. Execute:  
+<code>$ ./test.exe</code>  
